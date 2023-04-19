@@ -29,4 +29,4 @@ The unwanted columns and missing data are dropped and the datasets are merged to
  
  **Task 4 - Present to the Client**
  
- The work is presented to the client in a in business-friendly language.
+ The work is presented to the client in a business-friendly language.
