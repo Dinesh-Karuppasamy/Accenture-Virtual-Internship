@@ -25,7 +25,7 @@ The unwanted columns and missing data are dropped and the datasets are merged to
  
  **Tableau** is used for visualization.
  
- ![image](https://user-images.githubusercontent.com/131190846/233116146-e7475064-fad4-46c6-addd-998a0ccad1a2.png)
+![image](https://github.com/Dinesh-Karuppasamy/Accenture-Virtual-Internship/assets/131190846/70e68a09-272e-4057-82e9-148d260f7888)
  
  **Task 4 - Present to the Client**
  
